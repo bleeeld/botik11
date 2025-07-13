@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const trapLevels = ["1 BOMB", "3 BOMBS", "5 BOMBS", "7 BOMBS"]; // Уровни ловушек
 
     const translations = {
-        ru: { flip: 'Получить cигнал', countdown: 'Осталось:', sec: 'сек', wait: 'ВЗЛОМ...', accuracy: 'Точность cигнала:', stars: 'ЗВЁЗД', traps: ["1 БОМБА", "3 БОМБЫ", "5 БОМБ", "7 БОМБ"] },
+        ru: { flip: 'Получить cигнал', countdown: 'Осталось:', sec: 'сек', wait: 'АНАЛИЗ...', accuracy: 'Точность cигнала:', stars: 'ЗВЁЗД', traps: ["1 БОМБА", "3 БОМБЫ", "5 БОМБ", "7 БОМБ"] },
         en: { flip: 'Get signal', countdown: 'Remaining:', sec: 'sec', wait: 'HACKING...', accuracy: 'Signal accuracy:', stars: 'STARS', traps: ["1 BOMB", "3 BOMBS", "5 BOMBS", "7 BOMBS"] },
         hi: { flip: 'सिग्नल प्राप्त करें', countdown: 'वाम:', sec: 'सेक', wait: 'रुको...', accuracy: 'सिग्नल सटीकता:', stars: 'सितारे', traps: ["1 बम", "3 बम", "5 बम", "7 बम"] },
         pt: { flip: 'Receber sinal', countdown: 'Restante:', sec: 'seg', wait: 'AGUARDE...', accuracy: 'Precisão Do Sinal:', stars: 'ESTRELAS', traps: ["1 BOMBA", "3 BOMBAS", "5 BOMBAS", "7 BOMBAS"] },
